@@ -1,0 +1,7 @@
+Compression Result
+
+Reference block vs. Half modified block: 2078 bytes
+Reference block vs. Slightly modified block: 41 bytes
+Reference block vs. Scrambled block (16 bytes): 838 bytes
+Reference block vs. Scrambled block (8 bytes): 4115 bytes
+Reference block vs. Half swapped block: 24 bytes
